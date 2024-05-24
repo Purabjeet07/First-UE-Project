@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Chair_Blueprint.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Sphere_Blueprint.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/ABCD.umap",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/timer.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/display_timer.uasset",
+				"C:/Users/priya/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
+			]
+		}
+	]
+}
